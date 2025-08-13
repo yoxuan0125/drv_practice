@@ -1,0 +1,1 @@
+cmd_/home/yochen0125/drv_practice/hello_dev/hello_drv.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yochen0125/drv_practice/hello_dev/hello_drv.ko /home/yochen0125/drv_practice/hello_dev/hello_drv.o /home/yochen0125/drv_practice/hello_dev/hello_drv.mod.o ;  true
