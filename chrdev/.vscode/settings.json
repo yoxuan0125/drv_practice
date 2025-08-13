@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "if_xdp.h": "c",
+        "init.h": "c"
+    }
+}

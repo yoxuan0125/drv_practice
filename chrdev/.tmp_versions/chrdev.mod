@@ -1,0 +1,3 @@
+/home/yochen0125/drv_practice/chrdev/chrdev.ko
+/home/yochen0125/drv_practice/chrdev/chrdev.o
+
