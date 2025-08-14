@@ -1,4 +1,4 @@
-obj-m := chrdev.o
+obj-m := chrdrv.o
 
 KDIR := /home/yochen0125/100ask_imx6ull-sdk/Linux-4.9.88
 PWD := $(shell pwd)
